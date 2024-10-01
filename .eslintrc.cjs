@@ -41,6 +41,7 @@ module.exports = {
       alias: {
         map: [["@", "./src"]],
         extensions: [".js", ".jsx"],
+        moduleDirectory: ["node_modules"],
       },
     },
   },
